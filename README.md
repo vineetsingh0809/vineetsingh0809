@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ML and ReacT.
 - 👯 I’m looking to collaborate with other ML Enthuiest.
 - 😄 2022 Goals: Grab a Job in one of FAANG 😎
-- ⚡ Fun fact: I love to play Online Games Like PUBG, Call Of Duty and Fortnite and Outdoor Sports like Cricket and Volleyball.
+- ⚡ Fun fact: I love to play Online and Offline games, listning the songs and having conversation with new people.
 
 ### Connect With me 😇 :
 
@@ -25,3 +25,7 @@
 [youtube]: https://www.youtube.com/channel/UCEo-bUz4ccbfLp_dBV1s-IA
 [instagram]: https://www.instagram.com/mr_______cypher_______056/
 [linkedin]: https://www.linkedin.com/in/vineet-singh-2001/
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vineetsingh0809&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Achivement in gitHub">
