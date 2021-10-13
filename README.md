@@ -40,12 +40,8 @@
 <br/>
 <br/>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[website]: https://ghhsgf.herokuapp.com/
+[twitter]: https://twitter.com/AnkitSi49672583
+[youtube]: https://www.youtube.com/channel/UCEo-bUz4ccbfLp_dBV1s-IA
 [instagram]: https://www.instagram.com/mr_______cypher_______056/
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[linkedin]: https://www.linkedin.com/in/vineet-singh-2001/
