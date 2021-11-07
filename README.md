@@ -32,7 +32,3 @@
 
 
 <br/>
-
-
-
-https://user-images.githubusercontent.com/75788774/140642481-58c49ad9-a7d1-4444-b92d-dc13d7446ec0.mp4
