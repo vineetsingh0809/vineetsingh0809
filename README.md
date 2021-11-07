@@ -33,6 +33,3 @@
 
 <br/>
 <hr/>
-
-![11960355](https://user-images.githubusercontent.com/75788774/140642668-e8f37007-08df-49a4-b4ca-73ce302ed327.png)
-
