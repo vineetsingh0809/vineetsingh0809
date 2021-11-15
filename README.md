@@ -33,5 +33,3 @@
 
 <br/>
 <hr/>
-
-![200](https://user-images.githubusercontent.com/75788774/140642973-135d09bf-145b-4ed7-939f-c7b0438eaf80.gif)
