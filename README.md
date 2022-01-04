@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ML and ReacT.
 - 👯 I’m looking to collaborate with other ML Enthuiest.
 - 😄 2022 Goals: Grab a Job in one of FAANG 😎
-- ⚡ Fun fact: I love to play Online and Offline games, listning the songs and having conversation with new people.
+- ⚡ Fun fact: I love to play Online and Offline games, listening the songs and having conversation with new people.
 
 ### Connect With me 😇 :
 
