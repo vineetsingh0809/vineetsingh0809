@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on GirlScript Winter of Contribution as mentee and CodeChef as Event Lead of CodeChef DJMIT Chapter.
 - 🌱 I’m currently learning ML and ReacT.
-- 👯 I’m looking to collaborate with other ML Enthuiest.
+- 👯 I’m looking to collaborate with other ML Enthusiast.
 - 😄 2022 Goals: Grab a Job in one of FAANG 😎
 - ⚡ Fun fact: I love to play Online and Offline games, listening the songs and having conversation with new people.
 
