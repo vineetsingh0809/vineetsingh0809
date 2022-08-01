@@ -25,7 +25,6 @@
 [youtube]: https://www.youtube.com/channel/UCEo-bUz4ccbfLp_dBV1s-IA
 [instagram]: https://www.instagram.com/mr_______cypher_______056/
 [linkedin]: https://www.linkedin.com/in/vineet-singh-2001/
-[github]: https://github.com/vineetsingh0809
 
 <br/>
 
