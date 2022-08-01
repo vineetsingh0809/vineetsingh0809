@@ -3,9 +3,9 @@
 ## I'm a CP coder, Web Developer and Data Analyst !!
 
 - 🔭 I’m currently working on GirlScript Winter of Contribution as mentee and CodeChef as Event Lead of CodeChef DJMIT Chapter.
-- 🌱 I’m currently learning ML and ReacT.
-- 👯 I’m looking to collaborate with other ML Enthusiast.
-- 😄 2022 Goals: Grab a Job in one of FAANG 😎
+- 🌱 I’m currently learning ReactJS and NexrJS.
+- 👯 I’m looking to collaborate with other Full Stack Developer.
+- 😄 2023 Goals: Grab a Job in a good comapany.
 - ⚡ Fun fact: I love to play Online and Offline games, listening the songs and having conversation with new people.
 
 ### Connect With me 😇 :
@@ -25,6 +25,7 @@
 [youtube]: https://www.youtube.com/channel/UCEo-bUz4ccbfLp_dBV1s-IA
 [instagram]: https://www.instagram.com/mr_______cypher_______056/
 [linkedin]: https://www.linkedin.com/in/vineet-singh-2001/
+[github]: https://github.com/vineetsingh0809
 
 <br/>
 
