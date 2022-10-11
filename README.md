@@ -3,7 +3,7 @@
 ## I'm a CP coder, Web Developer and Data Analyst !!
 
 - 🔭 I’m currently working on GirlScript Winter of Contribution as mentee and CodeChef as Event Lead of CodeChef DJMIT Chapter.
-- 🌱 I’m currently learning ReactJS and NexrJS.
+- 🌱 I’m currently learning ReactJS and NextJS.
 - 👯 I’m looking to collaborate with other Full Stack Developer.
 - 😄 2023 Goals: Grab a Job in a good comapany.
 - ⚡ Fun fact: I love to play Online and Offline games, listening the songs and having conversation with new people.
