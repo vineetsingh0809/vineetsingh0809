@@ -1,11 +1,11 @@
-### Hi, I am Vineet Singh 👋
+### Hello People, I am Vineet Singh 👋
 
-## I'm a CP coder, Web Developer and Data Analyst !!
+## I'm a Full Stack Developer working on specially MERN Stack !!
 
-- 🔭 I’m currently working on GirlScript Winter of Contribution as mentee and CodeChef as Event Lead of CodeChef DJMIT Chapter.
+- 🔭 I’m currently working in AddWeb Solution Private Limited as Full Stack Developer Trainee.
 - 🌱 I’m currently learning ReactJS and NextJS.
-- 👯 I’m looking to collaborate with other Full Stack Developer.
-- 😄 2023 Goals: Grab a Job in a good comapany.
+- 👯 I’m looking to collaborate with some good Start-ups and companies.
+- 😄 2023 Goals: Grab a Job in a any MNC.
 - ⚡ Fun fact: I love to play Online and Offline games, listening the songs and having conversation with new people.
 
 ### Connect With me 😇 :
