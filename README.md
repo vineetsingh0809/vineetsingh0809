@@ -5,7 +5,7 @@
 - 🔭 I’m currently working in AddWeb Solution Private Limited as Full Stack Developer Trainee.
 - 🌱 I’m currently learning ReactJS and NextJS.
 - 👯 I’m looking to collaborate with some good Start-ups and companies.
-- 😄 2023 Goals: Grab a Job in a any MNC.
+- 😄 2024 Goals: Grab a Job in a any MNC.
 - ⚡ Fun fact: I love to play Online and Offline games, listening the songs and having conversation with new people.
 
 ### Connect With me 😇 :
