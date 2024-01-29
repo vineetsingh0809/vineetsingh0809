@@ -1,4 +1,4 @@
-### Hello People, I am Vineet Singh 👋, a problem solver at heart, I approach software development with a focus on creating practical, user-friendly solutions. I have experience in JavaScript, TypeScript, NodeJS, MySQL, ReactJS and C++ and am always eager to learn and apply new technologies to my work.
+### Hello People, I am Vineet Singh 👋, a problem solver at CodeChef, I approach software development with a focus on creating practical, user-friendly solutions. I have experience in JavaScript, TypeScript, NodeJS, MySQL, ReactJS and C++ and am always eager to learn and apply new technologies to my work.
 
 ## I'm a Full Stack Developer working on specially MERN Stack !!
 
