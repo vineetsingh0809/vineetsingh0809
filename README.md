@@ -65,7 +65,7 @@ Created company website & landing pages with **React.js & Bootstrap**, collabora
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet](https://www.linkedin.com/in/vineet-singh-2001/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-singh-2001/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/vineetsingh0809)  
 [![Email](https://img.shields.io/badge/Email-vineetsingh.dev%40gmail.com-red?logo=gmail&logoColor=white)](mailto:vineetsingh.dev@gmail.com)  
 
