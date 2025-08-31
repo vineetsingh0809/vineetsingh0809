@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me
-- 💻 **Software Engineer** with 3 years of experience in **Frontend & Full Stack Development**  
+- 💻 **Software Engineer** with 3+ years of experience in **Frontend & Full Stack Development**  
 - 🏢 Currently working at **AIS Technolabs Pvt Ltd** on a real-time **gambling platform (Clash.gg / CSGOEmpire like)**  
 - 🧑‍🏫 Mentor & guide to junior developers, conducting **code reviews & knowledge sharing**  
 - ⚡ Passionate about **scalable apps, performance optimization, and user-centric design**  
