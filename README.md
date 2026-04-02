@@ -33,10 +33,7 @@
 ## 💼 Experience
 
 **👨‍💻 Senior Software Engineer — AIS Technolabs Pvt Ltd (Sep 2024 – Present)**  
-Leading frontend development of a **real-time gambling platform**, mentoring juniors, optimizing APIs, and ensuring scalability using **React.js, Next.js, React Native & Node.js**.  
-
-**👨‍💻 Software Developer — NetAnalytics LLC (May 2024 – Aug 2024)**  
-Developed a **network monitoring system** with React.js & Next.js, improving dashboards, streamlining deployments, and boosting system reliability.  
+Leading frontend development of a **real-time gambling platform**, mentoring juniors, optimizing APIs, and ensuring scalability using **React.js, Next.js, React Native & Node.js**.    
 
 **👨‍💻 Full Stack Developer — AddWeb Solution Pvt Ltd (Sep 2022 – Apr 2024)**  
 Built **e-commerce platforms, CMS websites, and mobile apps** using Next.js, Node.js, MongoDB, and React Native.  
